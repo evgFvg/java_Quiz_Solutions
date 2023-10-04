@@ -1,0 +1,1 @@
+Java riddles / riddles solutions
